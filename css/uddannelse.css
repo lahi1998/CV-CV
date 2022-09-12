@@ -4,17 +4,17 @@
 
 .left {
     width: 20%;
-    height: 120vh;        
+    height: 120vh;      
 }
 
 .middle{
     width: 60%;
-    height: 120vh;
+    height: auto;
 }
 
 .right {
     width: 20%;
-    height: 120vh;
+    height: 120vh;    
 }
 
 .IMG_CV{
@@ -22,6 +22,8 @@ margin-top: 2vh;
 display: block;
 margin-left: auto;
 margin-right: auto;
+height: auto;
+width: 100%;
 }
 
 .link{
